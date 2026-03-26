@@ -9,11 +9,11 @@
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<p>👋 Hi! I’m passionate about Ethical Hacking and cybersecurity, always exploring new technologies to build efficient and secure systems. I enjoy developing well-structured applications, optimizing processes, and ensuring stability. At the same time, I research vulnerabilities and protection strategies to strengthen cybersecurity. I’m constantly learning, striving to improve my skills and tackle new challenges in the world of development and security. 🚀</p>
+<p>👋 Hi! I’m passionate about Cybersecurity and Ethical Hacking, with a strong focus on **Red Team and offensive security**. I dedicate my time to understanding attack techniques, analyzing vulnerabilities, and thinking like an attacker to identify weaknesses in networks and systems. I continuously learn through hands-on practice, labs, and real-world scenarios, aiming to grow as a Junior Pentester / Red Team member and contribute to strengthening system security through proactive vulnerability identification and risk mitigation. 🚀</p>
 
 - :school: I am a `Student` of [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer and i love `cybersecurity` and `networks`.
+- :computer: Exploring `system` hardening and `security configurations`.
 - :student: I’m currently learning `software development` and `cybersecurity engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
