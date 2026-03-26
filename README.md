@@ -14,7 +14,7 @@
 - :school: I am a `Student` of [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Exploring `system` hardening and `security configurations`.
-- :student: I’m currently learning `software development` and `cybersecurity engineering`.
+- :student: I `learn` about `computer systems networks` every day..
 - :nerd_face: Always `learning new things`.
 <br>
 
