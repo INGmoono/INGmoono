@@ -9,7 +9,7 @@
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<p>👋 Hi! I’m passionate about backend development and cybersecurity, always exploring new technologies to build efficient and secure systems. I enjoy developing well-structured applications, optimizing processes, and ensuring stability. At the same time, I research vulnerabilities and protection strategies to strengthen cybersecurity. I’m constantly learning, striving to improve my skills and tackle new challenges in the world of development and security. 🚀</p>
+<p>👋 Hi! I’m passionate about Ethical Hacking and cybersecurity, always exploring new technologies to build efficient and secure systems. I enjoy developing well-structured applications, optimizing processes, and ensuring stability. At the same time, I research vulnerabilities and protection strategies to strengthen cybersecurity. I’m constantly learning, striving to improve my skills and tackle new challenges in the world of development and security. 🚀</p>
 
 - :school: I am a `Student` of [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx).
 - :technologist: I love using Software as a solution for every `Problem`.
