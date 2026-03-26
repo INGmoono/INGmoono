@@ -9,7 +9,7 @@
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<p>👋 Hi! I’m passionate about Cybersecurity and Ethical Hacking, with a strong focus on **Red Team and offensive security**. I dedicate my time to understanding attack techniques, analyzing vulnerabilities, and thinking like an attacker to identify weaknesses in networks and systems. I continuously learn through hands-on practice, labs, and real-world scenarios, aiming to grow as a Junior Pentester / Red Team member and contribute to strengthening system security through proactive vulnerability identification and risk mitigation. 🚀</p>
+<p>👋 Hi! I’m passionate about Cybersecurity and Ethical Hacking, with a strong focus on Red Team and offensive security. I dedicate my time to understanding attack techniques, analyzing vulnerabilities, and thinking like an attacker to identify weaknesses in networks and systems. I continuously learn through hands-on practice, labs, and real-world scenarios, aiming to grow as a Junior Pentester / Red Team member and contribute to strengthening system security through proactive vulnerability identification and risk mitigation. 🚀</p>
 
 - :school: I am a `Student` of [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx).
 - :technologist: I love using Software as a solution for every `Problem`.
