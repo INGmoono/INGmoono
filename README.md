@@ -11,7 +11,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>👋 Hi! I’m passionate about Cybersecurity and Ethical Hacking, with a strong focus on Red Team and offensive security. I dedicate my time to understanding attack techniques, analyzing vulnerabilities, and thinking like an attacker to identify weaknesses in networks and systems. I continuously learn through hands-on practice, labs, and real-world scenarios, aiming to grow as a Junior Pentester / Red Team member and contribute to strengthening system security through proactive vulnerability identification and risk mitigation. 🚀</p>
 
-- :school: I am a `Student` of [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx).
+- :school: I am a `Student` of [POLI](https://www.poli.edu.co/oferta-academica/busqueda/modalidad/presencial/sede/bogota?utm_source=PMAX&utm_medium=CPL&utm_campaign=22106814454&utm_content=&utm_term=&utm_term=&utm_campaign=Pre_Pres_Profe_Generico_Esp_ADS_Pr_Bog_Lead_Pmax_NUEVA_7_ENE&utm_source=adwords&utm_medium=ppc&hsa_acc=2339534551&hsa_cam=22106814454&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23587654501&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8ervQiA9jOMvcpc88ZUfT4fV3_CZ4rXMQnJxJn-TCKBanJHlm6nfMFxoCsXQQAvD_BwE).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Exploring `system` hardening and `security configurations`.
 - :student: I `learn` about `computer systems networks` every day.
